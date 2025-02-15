@@ -6,21 +6,21 @@ This project demonstrates a scrolling text animation with smooth transitions and
 
 ## Features
 
-*   **Smooth Scrolling Animation:**  Text smoothly animates as the user scrolls.
+*   **Smooth Scrolling Animation:** Text smoothly animates as the user scrolls.
 *   **Dynamic Color Change:** The text color dynamically changes during the scroll.
-*   **Interactive Controls:**  A Tweakpane control panel allows users to customize the animation, theme, hue, and other parameters.
+*   **Interactive Controls:** A Tweakpane control panel allows users to customize the animation, theme, hue, and other parameters.
 *   **Responsive Design:** The text scales responsively to different screen sizes.
-*   **Accessibility:**  Includes ARIA attributes for screen readers.
+*   **Accessibility:** Includes ARIA attributes for screen readers.
 *   **Cross-Browser Compatibility:** Uses CSS properties where possible and GSAP for older browsers.
 *   **Light and Dark Themes:** Supports light and dark color schemes.
 
 ## Technologies Used
 
-*   **HTML:**  Structure of the webpage.
-*   **CSS:** Styling and animations.  Uses CSS Layers and Properties for modern browser support.
-*   **JavaScript:**  Interactivity and GSAP integration.
-*   **GSAP (GreenSock Animation Platform):**  For advanced animations and scroll triggering in browsers that don't fully support CSS scroll-driven animations.
-*   **Tweakpane:**  For the interactive control panel.
+*   **HTML:** Structure of the webpage.
+*   **CSS:** Styling and animations. Uses CSS Layers and Properties for modern browser support.
+*   **JavaScript:** Interactivity and GSAP integration.
+*   **GSAP (GreenSock Animation Platform):** For advanced animations and scroll triggering in browsers that don't fully support CSS scroll-driven animations.
+*   **Tweakpane:** For the interactive control panel.
 *   **Normalize.css:** For consistent styling across browsers.
 
 ## Installation
@@ -46,7 +46,7 @@ The interactive control panel allows you to customize the following:
 
 ## Credits
 
-*   **Developer:** Yousef Kaihar ([@Kihar\_Youssf](https://x.com/Kihar_Youssf))
+*   **Developer:** Yousef Kaihar ([@Kihar_Youssf](https://x.com/Kihar_Youssf)) - [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
 
 ## Contributing
 
